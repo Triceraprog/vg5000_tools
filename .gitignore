@@ -1,0 +1,7 @@
+*.o
+.env
+*swp
+*pyc
+*log
+*aux
+
